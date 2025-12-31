@@ -1,0 +1,22 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question, wontfix
+assignees: endrmen9487, TAIKgroup, FangkuaiYa
+
+---
+
+**描述*
+简单描述这个bug
+
+**复现过程**
+告诉我们该怎么做才可以重现这个bug
+
+**处理结果**
+您希望得到的处理结果
+
+**日志和图片**
+【必要】请附上日志帮助我们更好的处理这个bug
+如果可以请附加一些图片
