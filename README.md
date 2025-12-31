@@ -11,8 +11,8 @@
 
 ## 关于
 
-SUSpectWarning是一个适用于Among Us模组TheOtherRolesGMIA的辅助插件。\
-插件为TheOtherRolesGMIA带来了更多的职业以及许多创意功能，插件为了让游戏更有乐趣而生。
+SUSpectWarning是一个适用于Among Us的多职业创意模组。\
+模组为AmongUs带来了更多的职业以及许多创意功能，模组为了让游戏更有乐趣而生。
 
 
 
